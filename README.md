@@ -1,3 +1,19 @@
 # my-btter-console
 
-A library made for enhancing your console
+mybetterConsole is a lightweight package that provides a simple way to display different types of messages in your application. With this package, you can easily display success, danger, and info messages to your users.
+
+
+# Usage
+To use mybetterConsole, simply import the package and call the desired function with your message
+
+- const better = require('my-better-console');
+
+- better.success("Your success Message");
+
+- better.danger("Your error Message");
+
+- better.info("Your Message");
+
+# Installation
+
+npm i my-better-console

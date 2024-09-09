@@ -1,6 +1,6 @@
 {
   "name": "my-better-console",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A library for enhancing you Console.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
@@ -8,6 +8,11 @@
     "build": "tsc",
     "prepare": "npm run build"
   },
+  "keywords": [
+    "console",
+    "better console",
+    "console colors"
+  ],
   "author": "harshit_rwt",
   "license": "MIT",
   "devDependencies": {

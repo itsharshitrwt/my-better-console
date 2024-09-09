@@ -1,4 +1,4 @@
-export class log{
+export class better{
     static success(msg: string){
         console.log(`%c ${msg}`, `color: green`);
     }
